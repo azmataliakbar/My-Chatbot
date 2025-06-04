@@ -1,4 +1,5 @@
-# C:\Users\WWW.SZLAIWIIT.COM\python_projects\chatbot
+# My First Chatbot
+## C:\Users\WWW.SZLAIWIIT.COM\python_projects\chatbot
 ## Installations
 cd chatbot or cd C:\Users\WWW.SZLAIWIIT.COM\python_projects\chatbot
 uv add openai-agents python-dotenv chainlit
