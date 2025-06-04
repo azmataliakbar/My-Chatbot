@@ -5,5 +5,5 @@ uv add openai-agents python-dotenv chainlit
 uv venv
 uv run chainlit run main.py -w
 (For powershell)
-$env:GEMINI_API_KEY="AIzaSyDkSEFSeY-PofDSJltDJgVKE0E3D2574Og"
+$env:GEMINI_API_KEY="*************"
 uv run chainlit run main.py -w
